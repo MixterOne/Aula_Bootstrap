@@ -1,0 +1,21 @@
+.navbar{
+    background-color: #717171;
+}
+
+.quem-somos{
+    background-color: #cacaca7a;
+}
+
+.margin{
+    padding: 20px 0px;
+}
+
+.parceiros, .servicos{
+    background-color: #d6d6d67a;
+}
+
+.bg-footer{
+    background-color: #717171;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
